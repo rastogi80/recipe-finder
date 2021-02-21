@@ -3,7 +3,7 @@
 ## Requirements
 
 - PHP 7.0+
-- PHPUnit .0+
+- PHPUnit 7.0+
 
 ## Usage
 
